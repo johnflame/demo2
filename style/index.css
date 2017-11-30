@@ -13,7 +13,7 @@ img{
 }
 
 .container:hover img{
-   -webkit-filter:blur(2px);
+   -webkit-filter:blur(5px);
 }
 .container:hover .textword{
     visibility: visible;
